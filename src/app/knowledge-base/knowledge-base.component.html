@@ -1,0 +1,12 @@
+<div class="knowledge-container">
+  <div class="titulo">
+    <h1>Knowledge Base</h1>
+  </div>
+  <div class="acoes">
+    <button (click)="download()">Baixar Knowledge Base</button>
+    <div class="campo-grupo">
+      <label for="knowledge-base">Substituir Arquivo</label>
+      <input id="knowledge-base" type="file" (change)="upload($event)">
+    </div>
+  </div>
+</div>

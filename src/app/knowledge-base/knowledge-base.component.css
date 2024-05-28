@@ -1,0 +1,61 @@
+.knowledge-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #000000;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  width: 50%;
+  max-width: 800px;
+  font-size: 2rem;
+}
+
+.acoes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  max-width: 800px;
+}
+
+button {
+  width: 300px;
+  height: 40px;
+  background-color: #ffffff;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+
+button:hover {
+  background-color: #d8d8d8;
+}
+
+button:active {
+  background-color: #ffffff;
+}
+
+label {
+  margin-bottom: .5rem;
+  color: #c70000;
+}
+
+.campo-grupo {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 767px) {
+  .titulo {
+    width: 80%;
+  }
+  acoes {
+    width: 80%;
+  }
+}

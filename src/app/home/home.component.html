@@ -1,0 +1,11 @@
+<div class="home-container">
+  <div class="titulo">
+    <h1>AI Core</h1>
+  </div>
+  <textarea [(ngModel)]="question" placeholder="Pergunta"></textarea>
+  <button (click)="ask()">Enviar</button>
+  <div *ngIf="loading || response"class="retorno">
+    <div *ngIf="loading">Carregando...</div>
+    <div *ngIf="response">{{ response }} </div>
+  </div>
+</div>
