@@ -2,9 +2,11 @@
 
 Este é o frontend do projeto do Assistente de IA, desenvolvido em Angular.
 
-<img width="500" alt="image" src="https://github.com/gustavouhlein/angular-aicore/assets/122614202/43488e19-8313-4d10-aefa-a995ba81ee89">
+<img width="500" alt="image" src="https://github.com/gustavouhlein/angular-aicore/assets/122614202/75bd1fce-531d-430e-92e8-08382b726dd5">
 
-<img width="500" alt="image" src="https://github.com/gustavouhlein/angular-aicore/assets/122614202/d7c61c48-b1cd-44c5-a6ef-b1052c4cef96">
+<img width="500" alt="image" src="https://github.com/gustavouhlein/angular-aicore/assets/122614202/b1ec5074-2b2b-44c8-bc95-b5d8b1d33469">
+
+<img width="500" alt="image" src="https://github.com/gustavouhlein/angular-aicore/assets/122614202/5a3a987c-0f98-4209-bd3f-e997c94fb75d">
 
 
 ## Tecnologias Utilizadas
